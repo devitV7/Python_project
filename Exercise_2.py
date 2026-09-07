@@ -1,0 +1,8 @@
+name = str(input("My name is "))
+age = int(input("I am age: "))
+food = str(input("My favorite food is "))
+learn = str(input("I am learning: "))
+print("name", type(name))
+print("age", type(age))
+print("food", type(food))
+print("learn", type(learn))
