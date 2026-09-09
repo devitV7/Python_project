@@ -1,3 +1,0 @@
-PI = 3.14159
-MAX_USERS = 100
-DATABASE_HOST = "localhost"
