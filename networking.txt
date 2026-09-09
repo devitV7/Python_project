@@ -1,0 +1,5 @@
+Ethernet standard
+Ethernet 10 Base 
+Fast Ethernet 100 Base
+Gigabit Ethernet  1000 Base
+10 G Fthernet 10 G Base
